@@ -53,3 +53,5 @@ captures/
 
 service-account.json
 google-services.json
+serviceAccount.json
+node_modules
